@@ -2,4 +2,4 @@
 
 Online ordering website for a fast-food restaurant.
 Developed in HTML, CSS, Javascript, jQuery
-By Arvind Maan, Caden Chabot, Andy Tan, Aaron Salo.
+By Arvind Maan, Caden Chabot, Andy Tan, Aaron Salo.  
